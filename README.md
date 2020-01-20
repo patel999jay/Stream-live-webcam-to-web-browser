@@ -39,7 +39,9 @@ Then run motion:
 
     ~> motion
 
-Now you can view the webcam at http://hostname:8081  If it doesn't work, try rebooting between steps or something.
+Now you can view the webcam at 'http://192.168.0.34:8080/jay.cgi' 
+
+If it doesn't work, try rebooting between steps or something.
 
 Isn't that easy?  >:(
 
