@@ -7,12 +7,12 @@ Found this veru useful.
 
 First install `motion`:
 
-    ~> sudo apt-get install motion
+     sudo apt-get install motion
 
 Then create a config file:
 
-    ~> mkdir ~/.motion
-    ~> nano ~/.motion/motion.conf
+     mkdir ~/.motion
+     nano ~/.motion/motion.conf
 
 In it, the bare minimum to run a web server and view it on other computers:
 
